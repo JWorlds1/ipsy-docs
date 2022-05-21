@@ -1,5 +1,4 @@
-SSH & VNC 
-on Linux/MacOS/Windows (with Putty) 
+VNC on Linux/MacOS/Windows (with Putty) 
 ###
 :order: 575
 
