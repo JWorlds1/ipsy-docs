@@ -154,6 +154,6 @@ you should read ``man ssh_config``. These options are all set in the
    technically untrue.  But it is a reasonable approximation for what a user's
    understanding of the situation should be.
    
-SSH on Windwos
+SSH on Windows
 ******
    Text here 
