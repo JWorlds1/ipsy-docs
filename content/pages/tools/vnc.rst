@@ -1,13 +1,17 @@
 VNC on Linux/MacOS/Windows (with Putty) 
 ********
-Text new here 
 
+Download VNC Viewer to the device you want to control.
 
-Person who be controlled and controll. 
+Make sure you have downloaded VNC® Connect to the computer you want to control.
+
+Download VNC Viewer and VNC Connect, for Linux/MacOS/Windows,  and more ...
+
+https://www.realvnc.com/de/connect/download/viewer/macos/
 
 VNC on MacOS
 *********
-Text
+
 
 .. code::
 
@@ -31,12 +35,8 @@ code
 
 VNC on Windows
 **********
-If you want to connect to a server that is on a private network, you will want
-to use a Jump Host.
 
-To explain, let's say we're robbing a bank (sometimes called "self financing" in
-academia). The server ``vault`` isn't publicly available, but ``lobby`` is, so
-we're going to connect to it first and use it as a jump host.
+
 
 For example:
 
@@ -49,5 +49,5 @@ Config & Settings
 
 ----
 
-Important to know 
-links 
+Important to know: 
+links for more understanding: 
