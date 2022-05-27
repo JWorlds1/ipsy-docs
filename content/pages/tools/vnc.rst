@@ -12,7 +12,7 @@ https://www.realvnc.com/de/connect/download/viewer/macos/
 VNC on MacOS
 *********
 
-.. figure:: 
+.. figure:: /Users/qed97/Documents/GitHub/ipsy-docs/content/pages/tools/dokumentation_ipsy/bilder_vnc/bar.png
     :name: bar.png
     :alt:  bar.png
     :align: center
