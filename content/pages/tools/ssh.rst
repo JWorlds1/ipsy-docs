@@ -156,7 +156,8 @@ you should read ``man ssh_config``. These options are all set in the
    
 SSH on Windows
 ******
-   How to install the SSH Client on Windows 10
+
+How to install the SSH Client on Windows 10
   
   1. Press the Search button and type “Optional feature”
     -> Click the top result, which should read, “Add an optional feature”.
@@ -164,9 +165,9 @@ SSH on Windows
   2. Click “Add a feature” in Settings
   
   3. Install the Windows OpenSSH Client
-    -> Type “SSH” in the optional features search bar, then tick the entry that reads “OpenSSH Client”. Finally, click the “Install” button at the bottom of your Window. The process will take a few seconds to complete and shouldn’t require a restart.
+    -> Type “SSH” in the optional features search bar, then tick the entry that reads “OpenSSH     Client”. Finally, click the “Install” button at the bottom of your Window. The process will take a few seconds to complete and shouldn’t require a restart.
     
-    How to Use SSH in Commands in Windows 10
+How to Use SSH in Commands in Windows 10
     
     1. Open Command Prompt (or Powershell) 
     -> Press Start and then type “Command Prompt”. Click the top result.
@@ -196,6 +197,6 @@ below).
 Authenticate, and you now have an interactive session on the remote machine.
       
     
-    
+    Tutorial: 
     (https://winbuzzer.com/2021/08/25/how-to-enable-and-use-ssh-commands-on-windows-10-xcxwbt/)
 
