@@ -12,6 +12,43 @@ https://www.realvnc.com/de/connect/download/viewer/macos/
 VNC on MacOS
 *********
 
+.. figure:: 
+    :name: bar.png
+    :alt:  bar.png
+    :align: center
+    :width: 20%
+    
+.. figure:: 
+    :name: setting1.png
+    :alt:  setting1.png
+    :align: center
+    :width: 20%
+    
+.. figure:: 
+    :name: setting2.png
+    :alt:  setting2.png
+    :align: center
+    :width: 20%
+    
+.. figure:: 
+    :name: setting3.png
+    :alt:  setting3.png
+    :align: center
+    :width: 20%
+    
+    
+.. figure:: 
+    :name: controlled.png
+    :alt:  controlled.png
+    :align: center
+    :width: 20%
+ 
+
+.. figure:: 
+    :name: becontrolled.png
+    :alt: becontrolled.png
+    :align: center
+    :width: 20%
 
 .. code::
 
