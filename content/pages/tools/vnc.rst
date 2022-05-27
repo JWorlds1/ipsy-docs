@@ -75,6 +75,12 @@ VNC on Windows
 
 
 
+Putty on Windows/Linux/MacOS
+**********
+All pages and steps found here: 
+
+https://www.ssh.com/academy/ssh/putty/windows
+
 For example:
 
 .. code::
