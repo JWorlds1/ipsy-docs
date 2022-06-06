@@ -111,8 +111,17 @@ Putty on MacOS
 **********
 
 
+
 Config & Settings 
 ******
+Killen von Prozessen auf dem Server Medusa 
+
+.. code::
+ps aux | grep Benutzer | grep vnc
+vncserver -kill :9
+pkill -u Benutzer
+
+
 
 ----
 
