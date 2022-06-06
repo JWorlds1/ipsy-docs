@@ -129,3 +129,8 @@ There are multiple methods of connecting to Medusa graphically.
     mess by migrating to HTTP-based VNC (like Guacamole).
 
   .. _TightVNC Java Viewer: http://www.tightvnc.com/download.php
+  
+VPN for Windows, Linux and MacOS
+*********
+Go to the website and follow the manual: 
+  https://www.urz.ovgu.de/urz/en/vpn-path-204,616.html
