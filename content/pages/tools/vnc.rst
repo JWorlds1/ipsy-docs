@@ -119,7 +119,13 @@ Killen von Prozessen auf dem Server Medusa
 .. code::
 
 ps aux | grep Benutzer | grep vnc
+
+.. code::
+
 vncserver -kill :9
+
+.. code::
+
 pkill -u Benutzer
 
 
