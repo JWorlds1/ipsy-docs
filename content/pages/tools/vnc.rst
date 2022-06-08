@@ -109,12 +109,21 @@ Putty on Linux
 
 Putty on MacOS
 **********
+PuTTY is an SSH telnet client which, with a VNC Viewer, connects to the GUI. The steps after downloading PuTTY is as follows:
 
+      1. Specify host name as your medusa login (name@medusa.ovgu.de) and Port 22
+      2. On the right hand side, click on the + next to SSH and then click Tunnels.
+      3. Type 59 + your session number for Source port (e.g. if your session number is 8 type 5908).
+      4. Type localhost:59(session number) as Destination then click Add. (e.g. localhost:5908)
+      5. Go back to session and you can save this session so you don’t have to repeat these steps each time you want to connect.
+      6. Load and open session and connect to medusa and start the VNC Server (after setting up your password)
+      7. Open a VNC Viewer, type localhost:59(session number) and connect.
+      8. You will be required to enter your VNC password, afterwards you will have access to the GUI.
 
 
 Config & Settings 
 ******
-Killen von Prozessen auf dem Server Medusa 
+Killen von Prozessen auf dem Medusa Server, notwendig bei mehrfacher Anwendung von dem starten von vnc Servern: 
 
 .. code::
 
